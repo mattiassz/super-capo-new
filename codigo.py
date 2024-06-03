@@ -1,3 +1,3 @@
 tomato = "dsioeopv"
 
-print("hola" + nombre + " " + apellido)
+print(tomato)
