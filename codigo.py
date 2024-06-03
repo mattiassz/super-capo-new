@@ -1,3 +1,1 @@
-tomato = "dsioeopv"
-
-print(tomato)
+·tuvijea
