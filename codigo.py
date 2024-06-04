@@ -1,1 +1,2 @@
-·tuvijea
+frase = "ahora si flaco"
+print(frase)
